@@ -1,0 +1,118 @@
+[
+    {
+        "Instituto": "ISFDyT 114",
+        "Especialidad": "Formación Docente y Formación Técnica",
+        "Dirección": "Mitre 5035. Villa Ballester, San Martín.",
+        "Oferta Academica": [
+            "Técnico Superior en Biblitecología",
+            "Técnico Superior en Análisis en Sistemas",
+            "Técnico Superior en Mantenimiento Industrial",
+            "Profesorado de Educación Secundaria en Economía",
+            "Profesorado de Educación Secundaria en Física",
+            "Profesorado de Educación Secundaria en Matemática",
+            "Profesorado de Educación Secundaria Técnico Profesional en Electromecánica",
+            "Profesorado de Educación Primaria",
+            "Profesorado de Educación Secundaria en Biología",
+            "Profesorado de Educación Secundaria en Geografía",
+            "Profesorado de Educación Secundaria en Lengua y Literatura",
+            "Profesorado de Educación Secundaria en Química",
+            "Profesorado de Educación de Inglés",
+            "Curso de Formación Básica en Inglés"
+        ]
+    },
+    {
+        "Instituto": "ISFT 183",
+        "Especialidad": "Formación Técnica",
+        "Dirección": "San Martín 1714, San Martín.",
+        "Oferta Academica": [
+            "Técnico Superior en Administración de Recursos Humanos",
+            "Técnico Superior en Administración de PyMes",
+            "Técnico Superior en Higiene y Seguridad en el Trabajo",
+            "Técnico Superior en Logística",
+            "Técnico Superior en Construccíón Sustentable"
+        ]
+    },
+    {
+        "Instituto": "ISFT 185",
+        "Especialidad": "Formación Técnica",
+        "Dirección": "Parodi 4056, Caseros, Tres de Febrero.",
+        "Oferta Academica": [
+            "Técnico Superior en Mecánica Livina",
+            "Técnico Superior en Comunicación Multimedial",
+            "Técnico Superior en Mecatrónica",
+            "Técnico Superior en Gestión de Energías Renovables",
+            "Técnico Superior en Servicios Gastronómicos"
+        ]
+    },
+    {
+        "Instituto": "ISFT 225",
+        "Especialidad": "Formación Técnica",
+        "Dirección": "Rivadavia 3915, San Martín.",
+        "Oferta Academica": [
+            "Desarrollador de Software"
+        ]
+    },
+    {
+        "Instituto": "ISFT 226",
+        "Especialidad": "Formación Técnica",
+        "Dirección": "Sargento Salazar 1501, Hurlingham.",
+        "Oferta Academica": [
+            "Técnico Superior en Material Rodante Ferroviario"
+        ]
+    },
+    {
+        "Instituto": "ISFT 230",
+        "Especialidad": "Formación Técnica",
+        "Dirección": "Nuestra Señora de la Merced 4624, Caseros.",
+        "Oferta Academica": [
+            "Técnico Superior en Higiene y Seguridad en el Trabajo",
+            "Especialización Profesional en Gestión de la Seguridad Operacional en el Transporte Ferroviario"
+        ]
+    },
+    {
+        "Instituto": "ISFD 34",
+        "Especialidad": "Formación Docente",
+        "Dirección": "Aviador Tte. Benjamín Matienzo 2430, Ciudad Jardín.",
+        "Oferta Academica": [
+            "Profesorado de Educación Especial",
+            "Profesorado de Educación Inicial",
+            "Profesorado de Educación Primaria",
+            "Profesorado de Educación Secundaria en Biología",
+            "Profesorado de Educación Secundaria en Física",
+            "Profesorado de Educación Secundaria en Geografía",
+            "Profesorado de Educación Secundaria en Historia",
+            "Profesorado de Educación Secundaria en Matemática"
+        ]
+    },
+    {
+        "Instituto": "ISFD 113",
+        "Especialidad": "Formación Docente",
+        "Dirección": "Cochabamba 2280, San Martín.",
+        "Oferta Academica": [
+            "Profesorado de Educación Especial",
+            "Profesorado de Educación Inicial",
+            "Profesorado de Educación Primera",
+            "Profesorado de Educación Secundaria en Ciencias Políticas"
+        ]
+    },
+    {
+        "Instituto": "ISFD 174",
+        "Especialidad": "Formación Docente",
+        "Dirección": "120 Balcarce 3469, Villa Ballester.",
+        "Oferta Academica": [
+            "Formación Docente en Matemática",
+            "Diplomatura en Estadística Educativa",
+            "Curso de Métodos de Enseñanza"
+        ]
+    },
+    {
+        "Instituto": "ISFD 209",
+        "Especialidad": "Formación Docente",
+        "Dirección": "Juana Manuela Gorriti 3802, William C. Morris.",
+        "Oferta Academica": [
+            "Formación Docente en Lengua y Literatura",
+            "Diplomatura en Literatura Infantil",
+            "Curso de Escritura Creativa"
+        ]
+    }
+]

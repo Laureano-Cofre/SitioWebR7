@@ -1,0 +1,285 @@
+/* ** Reset CSS ** */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ** Global Styles ** */
+body {
+    font-family: "Encode Sans", sans-serif;
+}
+
+/* ** Navbar ** */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative; 
+    z-index: 10; 
+}
+
+.logo {
+    margin-left: 1rem;
+    color: white;
+    font-size: 3rem;
+}
+
+.logo img {
+    max-width: 16rem; 
+    height: auto; 
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    position: relative;
+}
+
+.nav-links a {
+    color: #009AAE;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+    font-weight: bold; 
+    padding: 1rem 1.5rem;
+}
+
+.nav-links .dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    padding: 0;
+    min-width: 200px;
+}
+
+.nav-links .dropdown-menu a {
+    padding: 0.5rem 1rem;
+    font-weight: 300; /* Cambia el peso de la fuente a "light" */
+    font-size: 0.875rem;/* Reducir tamaño de texto */
+}
+
+.nav-links li:hover .dropdown-menu {
+    display: block;
+}
+
+.nav-links .contact a {
+    background-color: #f39c12; 
+    color: white; 
+    border-radius: 4px; 
+}
+
+.nav-links .contact a:hover {
+    background-color: #e67e22; 
+}
+
+.hamburger {
+    display: none;
+    font-size: 2rem;
+    color: #444;
+    cursor: pointer;
+}
+
+/* Estilo para el título de la página */
+.page-title {
+    font-size: 2rem; /* Tamaño del texto */
+    color: #444; /* Color del texto */
+    background-color: #ffffff; /* Fondo blanco */
+    text-align: center; /* Centrar el texto */
+    padding: 1rem; /* Espaciado interno */
+    margin-top: 1rem; /* Espacio por encima del título */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+/* Estilo para el subtítulo debajo del título de la página */
+.page-subtitle {
+    font-size: 1rem; /* Tamaño de letra más pequeño */
+    color: #666; /* Color del texto del subtítulo */
+    margin-top: 0.5rem; /* Espacio por encima del subtítulo */
+}
+
+
+/* ** Hero Section ** */
+.hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #000;
+    z-index: 1; 
+}
+
+
+.hero-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    display: none; /* Ocultar videos adicionales inicialmente */
+}
+
+#video1 {
+    display: block; /* Mostrar el primer video */
+}
+
+
+/* ** About Section ** */
+.about {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.about h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem; /* Tamaño del texto igual al título */
+    color: #444; /* Color del texto igual al título */
+    background-color: #ffffff; /* Fondo blanco */
+    text-align: center; /* Centrar el texto */
+    padding: 1rem; /* Espaciado interno */
+    margin-top: 1rem; /* Espacio por encima */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+
+.about p {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* ** Institutos Section ** */
+.institutos {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.institutos .card {
+    border: 2px solid red; /* Añade un borde rojo para ver si las cards aparecen */
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 90%; /* Asegura que las cards sean un poco más responsivas */
+    text-align: left;
+}
+
+
+.institutos .card h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.institutos .card ul {
+    list-style: disc;
+    padding-left: 1.5rem;
+}
+
+.institutos .card li {
+    margin-bottom: 0.5rem;
+}
+
+.institutos .card p, .institutos .card h4 {
+    margin: 0.5rem 0;
+}
+
+/* ** Media Queries para Cards ** */
+@media (max-width: 768px) {
+    .institutos .card {
+        max-width: 100%; /* Las cards ocuparán todo el ancho disponible en pantallas pequeñas */
+    }
+}
+
+
+/* ** Footer ** */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p {
+    margin: 0;
+}
+
+/* ** Media Queries ** */
+@media (max-width: 768px) {
+    @media (max-width: 768px) {
+        .nav-links {
+            display: none;
+            flex-direction: column;
+            width: 100%;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #ffffff;
+        }
+    
+        .nav-links.active {
+            display: flex;
+        }
+    
+        .nav-links li {
+            width: 100%; /* Para que las opciones ocupen todo el ancho */
+        }
+    
+        .nav-links .dropdown-menu {
+            position: relative;
+            top: 0;
+            left: 0;
+            background-color: #ffffff;
+            padding: 0;
+            display: none;
+            flex-direction: column;
+            width: 100%;
+        }
+    
+        .nav-links .dropdown-menu a {
+            padding: 1rem;
+            text-align: center;
+        }
+    
+        .nav-links li:hover .dropdown-menu,
+        .nav-links li:focus .dropdown-menu {
+            display: flex;
+        }
+    
+        .hamburger {
+            display: block;
+        }
+    }
+    
+    .hero-video {
+        object-position: center top; 
+    }
+
+    .logo img {
+        max-width: 100px; 
+    }
+}
+
+@media (max-width: 480px) {
+    .logo img {
+        max-width: 80px; 
+    }
+}
+
+
