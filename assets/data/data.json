@@ -74,7 +74,8 @@
         "Especialidad": "Formación Docente",
         "Dirección": "Aviador Tte. Benjamín Matienzo 2430, Ciudad Jardín.",
         "Oferta Academica": [
-            "Profesorado de Educación Especial",
+            "Profesorado de Educación Especial con orientación en Ciegos y disminuidos visuales",
+            "Profesorado de Educación Especial con orientación en Discapacidad Neuromotora",
             "Profesorado de Educación Inicial",
             "Profesorado de Educación Primaria",
             "Profesorado de Educación Secundaria en Biología",
@@ -89,10 +90,12 @@
         "Especialidad": "Formación Docente",
         "Dirección": "Cochabamba 2280, San Martín.",
         "Oferta Academica": [
-            "Profesorado de Educación Especial",
+            "Profesorado de Educación Especial con orientación en  Discapacidad Intelectual",
             "Profesorado de Educación Inicial",
-            "Profesorado de Educación Primera",
-            "Profesorado de Educación Secundaria en Ciencias Políticas"
+            "Profesorado de Educación Primaria",
+            "Profesorado de Educación Secundaria en Ciencias Políticas",
+            "Profesorado de Educación Secundaria en Filosofía",
+            "Profesorado de Educación Secundaria en Historia"
         ]
     },
     {
