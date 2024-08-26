@@ -1,6 +1,6 @@
 [
     {
-        "Instituto": "ISFDyT 114",
+        "Instituto": "ISFDyT 114 - José Gabriel Tupac Amaru II",
         "Especialidad": "Formación Docente y Formación Técnica",
         "Dirección": "Mitre 5035. Villa Ballester, San Martín.",
         "Oferta Academica": [
@@ -10,14 +10,7 @@
             "Profesorado de Educación Secundaria en Economía",
             "Profesorado de Educación Secundaria en Física",
             "Profesorado de Educación Secundaria en Matemática",
-            "Profesorado de Educación Secundaria Técnico Profesional en Electromecánica",
-            "Profesorado de Educación Primaria",
-            "Profesorado de Educación Secundaria en Biología",
-            "Profesorado de Educación Secundaria en Geografía",
-            "Profesorado de Educación Secundaria en Lengua y Literatura",
-            "Profesorado de Educación Secundaria en Química",
-            "Profesorado de Educación de Inglés",
-            "Curso de Formación Básica en Inglés"
+            "Profesorado de Educación Secundaria Técnico Profesional en Electromecánica"
         ]
     },
     {
@@ -49,7 +42,7 @@
         "Especialidad": "Formación Técnica",
         "Dirección": "Rivadavia 3915, San Martín.",
         "Oferta Academica": [
-            "Desarrollador de Software"
+            "Tecnicatura Superior en Desarrollado de Software"
         ]
     },
     {
@@ -99,13 +92,15 @@
         ]
     },
     {
-        "Instituto": "ISFD 174",
+        "Instituto": "ISFD 174 - Vera Peñaloza",
         "Especialidad": "Formación Docente",
         "Dirección": "120 Balcarce 3469, Villa Ballester.",
         "Oferta Academica": [
-            "Formación Docente en Matemática",
-            "Diplomatura en Estadística Educativa",
-            "Curso de Métodos de Enseñanza"
+            "Profesorado de Educación Secundaria en Biología",
+            "Profesorado de Educación Secundaria en Geografía",
+            "Profesorado de Educación Secundaria en Lengua y Literatura",
+            "Profesorado de Educación Secundaria en Química",
+            "Profesorado de Educación de Inglés"
         ]
     },
     {
@@ -113,9 +108,9 @@
         "Especialidad": "Formación Docente",
         "Dirección": "Juana Manuela Gorriti 3802, William C. Morris.",
         "Oferta Academica": [
-            "Formación Docente en Lengua y Literatura",
-            "Diplomatura en Literatura Infantil",
-            "Curso de Escritura Creativa"
+            "Profesorado de Educación Primaria",
+            "Profesorado de Educación Inicial",
+            "Profesorado de Educación Física"
         ]
     }
 ]
